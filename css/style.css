@@ -1,0 +1,19 @@
+.bg{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.navbar li a{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.navbar li a:hover{
+    color: green;
+}
+
+.container a{
+    text-decoration: none;
+    color: white;
+}
+
